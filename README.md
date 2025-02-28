@@ -10,3 +10,9 @@ Daha öncede profesyönel olarak CRM sistemleri kodlamışlığım ve bunun gibi
 
 Prompt lar aracılığı ile kodları oluşturarak sadece oluşan kodların derlenmesi sırasında aksiyon aldım. 
 Açık kaynak kodlu olarak paylaşıyorum. Yanlış bilmiyorsam bütün kodlar zaten açık kaynak kodlu altyapılardan kullanıldı.
+
+
+Şimdilik demo adresi: 
+https://bplanmasters.com/ikv8/
+login: test@test.com
+pass: 123456789
