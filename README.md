@@ -1,18 +1,23 @@
-Projenin amacı:
-  Rusya federasyonunda çalışacak inşaat ve taahhüt firmasının İK departmanında kullanılması üzerine bir portal oluşturmak.
-Proje teknolojisi:
-  Php, mysql, css, js, html, claude sonnet 3.7, Qodo gen free üyelik, visual studio, laptop, wamp server.
+Yapay Zekâ ile 3 Aydan 3 Güne: İnşaat Sektörüne Özel Personel Yönetim Portalı
+Merhaba,
+Programlamayla 1999'da Yalova ÇPL'deki akşam kurslarında, "bir uzaylıya çay demletmeyi" öğrenerek başlayan biri olarak, uzun süredir PHP ile CRM sistemleri ve otomasyon araçları geliştiriyorum. Rusya'da Personel Yöneticisi olarak edindiğim sahada tecrübelerimi, bu kez teknolojiyle harmanladım ve bugün sizlere yapay zekanın profesyonel hayatımıza entegrasyonunu somutlaştıran bir demo projemi paylaşmak istiyorum.
+Proje Özeti:
+İnşaat ve taahhüt firmaları için tasarladığım web tabanlı, mobil uyumlu portalımız;
+✔️ Personel bilgilerini SQL veri tabanında yönetme,
+✔️ Tek tıkla Excel raporları oluşturma,
+✔️ Karmaşık izin/çalışma takvimlerini takip etme,
+✔️ Çoklu dil desteği (istenildiği kadar eklenebilir).
+özellikleriyle sektördeki operasyonel zorluklara çözüm üretiyor.
+🤖 AI Etkisi:
+Profesyonel bir yazılımcı olmamama rağmen, AI prompt mühendisliği sayesinde:
+⏳ Eskiden 3 ay sürecek bu projeyi
+⌛ 3 günlük stratejik prompt tasarımıyla tamamladım!
+Neden Önemli?
+Bu proje, yapay zekanın "teknik bilgi sınırlarını" nasıl aştığını ve sektör deneyimi olanların AI ile neler başarabileceğini gösteren bir kanıt oldu.
+Sizce Ne Eksik?
+Geliştirmem gereken yönleri yorumlarda belirtirseniz, bir sonraki versiyonda birlikte ilerleyebiliriz!
+#YapayZeka #İnsanKaynakları #İnşaatTeknolojileri #AIdevrimi #KariyerHikayesi
+Not: Giriş bilgileri sadece demo amaçlıdır, lütfen hassas veri girmeyiniz.
 
-Aslında kod yazma konusunda çok iyi değilimdir fakat bir uzaylıya kendi dilinde çay demlemeyi tanımlayabilir ve işi gerçekleştirmesini sağlayabilirim. (teorik olarak)
-
-Claude Sonnet 3.7 çıkmadan önce bu projeyi 3.5 dahil pek çok ai destekli kodlama sisteminde oluşturmaya çalıştım. Projenin kendisini son 2 yıldır, dönem dönem geliştirmeye çalışıyordum. Beni engelleyen tek nokta kodlamayı pek sık yapmadığım için kod bilgimin eksik olmasıydı.
-Daha öncede profesyönel olarak CRM sistemleri kodlamışlığım ve bunun gibi pek çok sistemin satışını gerçekleştirmişliğim var fakat son 3 yıldır adam gibi kod yazmadım.
-
-Prompt lar aracılığı ile kodları oluşturarak sadece oluşan kodların derlenmesi sırasında aksiyon aldım. 
-Açık kaynak kodlu olarak paylaşıyorum. Yanlış bilmiyorsam bütün kodlar zaten açık kaynak kodlu altyapılardan kullanıldı.
-
-
-Şimdilik demo adresi: 
-https://bplanmasters.com/ikv8/
-login: test@test.com
-pass: 123456789
+(Deneyim için: İK Portalı
+Test Girişi: test@test.com / 123456789)
